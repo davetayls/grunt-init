@@ -1,3 +1,6 @@
 [submodule "jquery"]
 	path = jquery
 	url = git@github.com:davetayls/grunt-init-jquery.git
+[submodule "scaffo"]
+	path = scaffo
+	url = git@github.com:davetayls/scaffo.git
